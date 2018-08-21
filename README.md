@@ -1,7 +1,7 @@
 # Simple-Nethack
 A project for the C++ Course
 
-###代码编写环境：Win10  Visual Studio2017 
+代码编写环境：Win10  Visual Studio2017 
 
 代码运行方法  
 
