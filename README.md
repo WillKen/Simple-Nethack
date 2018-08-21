@@ -3,10 +3,15 @@ A project for the C++ Course
 
 代码编写环境：Win10  Visual Studio2017 
 代码运行方法  
+
 打开visual studio 点击 文件->新建->项目 
+
 选择visual C++ 空项目 
+
 在右侧资源管理器中 右击头文件 添加现有项， 将code->include 中四个头文件添加进项目 
+
 在右侧资源管理器中 右击源文件 添加现有项， 将code->src 中五个头文件添加进项目 
+
 最后点击上方按钮    运行 
 
 操作方法  
